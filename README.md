@@ -1,0 +1,1 @@
+An implementation of a solution for an optimization problem in our language of choice ( C ). 
